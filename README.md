@@ -49,4 +49,12 @@ Our reviewers will also look at the overall quality of your project:
 - Have you managed to avoid code duplication?
 - What are your findings?
 
+# Generated Plots: 
+<img width="1074" alt="image" src="https://github.com/nhayenquynh/Detecting-Negative-Reviews/assets/125513684/edf115d1-f14d-4a7c-9761-89ef1f503425">
+<img width="1074" alt="image" src="https://github.com/nhayenquynh/Detecting-Negative-Reviews/assets/125513684/dd225ed9-0122-46f3-9947-739c780057c7">
+
+# Results: 
+<img width="562" alt="image" src="https://github.com/nhayenquynh/Detecting-Negative-Reviews/assets/125513684/c9bd5427-e99c-4bdd-9ff3-2a52ab197d42">
+
+Linear regression model performed best with both NLTK and spaCY libraries.
 
